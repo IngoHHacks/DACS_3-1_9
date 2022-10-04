@@ -515,5 +515,5 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,git,visualstudio,visualstudiocode,dotnetcore
 
-!COTL_API/Debug/
-build/
+# Token
+token.txt
